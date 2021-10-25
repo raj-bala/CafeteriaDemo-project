@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewBag.Title = "GetFoodBill";
+    Layout = "~/Views/Shared/_LayoutPage3.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetFoodBill</title>
+    <style>
+
+
+        body {
+            
+            background-color: black;
+            background: url("../../Photo/bill2.jpg") no-repeat center center fixed;
+            background-size: cover;
+        }
+
+        h2 {
+            color: rgb(4, 114, 37);
+        }
+
+        .div1 {
+            position: center;
+        }
+
+        
+    </style>
+</head>
+<body align="center">
+
+    <br /><br />
+    <form method="post" name="Display">
+        <h2 align="center">Want To add More Product</h2><br />
+        <input type="button" value="Continue" align="center" onclick="newTest()">
+        <input type="button" value="No" align="center" onclick="noTest()">
+
+        <script>
+            function newTest() {
+
+                var url = '@Url.Action("CounterDisplayUser", "Cafeteria")';
+                     window.location.href = url;
+            }
+            function noTest() {
+               var url = '@Url.Action("PrintFoodBill", "Cafeteria")';
+                     window.location.href = url;
+            }
+
+        </script>
+
+    </form>
+    
+</body>
+</html>
+
+

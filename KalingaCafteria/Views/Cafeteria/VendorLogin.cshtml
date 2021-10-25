@@ -1,0 +1,124 @@
+﻿@model KalingaCafteria.Models.VendorDetailsModel
+@{
+    ViewBag.Title = "VendorLogin";
+    Layout = "~/Views/Shared/_LayoutPage2.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>VendorLogin</title>
+    <style>
+        body {
+            
+            background-color: black;
+            background: url("../../Photo/log2.jpg") no-repeat center center fixed;
+            background-size: cover;
+            
+            
+        }
+        .login1 {
+            position: absolute;
+            top: 30%;
+            right: 50%;
+          color:black;
+            
+        }
+        img {
+            position: absolute;
+            top: 1%;
+            right: 20%;
+        }
+        .msg {
+            
+            background-color:firebrick;
+            border: none;
+            color: white;
+            padding: 9px 25px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 10px;
+            margin: 4px 2px;
+        }
+        div1{
+            font-weight:bold;
+            font-size:15px;
+            color:black;
+        }
+        a{
+            color:black;
+            font-weight:bold;
+        }
+       
+    </style>
+</head>
+<body>
+    <div class="login1">
+        <h2>Login</h2>
+        <img src="../../Photo/login.jpg" class="img-circle" alt="Cinque Terre" width="70" height="56">
+        @using (Html.BeginForm())
+        {
+
+
+            <div>
+
+                <hr />
+                @if (ViewBag.Message != null)
+                {
+                    <p class="msg">@ViewBag.Message</p>
+                }
+
+                <div>
+                    @Html.LabelFor(model => model.Email)
+                    <div>
+                        @Html.EditorFor(model => model.Email)
+                        @Html.ValidationMessageFor(model => model.Email, "")
+                    </div>
+                </div>
+
+                <div>
+                    @Html.Label("Password")
+                    <div>
+                        @Html.PasswordFor(model => model.Pswd)
+                        @Html.ValidationMessageFor(model => model.Pswd, "")
+                    </div>
+                </div>
+                @*<div class="msg">@ViewBag.Message</div>*@
+                <br />
+                <div>
+                    <div>
+                        <input type="submit" value="Login" class="btn btn-default" />
+
+                        &nbsp&nbsp
+
+                        <input type="button" value="SignUp" class="btn btn-default" onclick="@("window.location.href='" + @Url.Action("Register", "Cafeteria") + "'");" />
+                    </div>
+                </div>
+
+            </div><br />
+            <u>
+                @Html.ActionLink("Forgot Password", "ForgotPassword")
+            </u>
+            <br/>
+            <br/>
+
+
+            <u>
+                @Html.ActionLink("Login Using Google", "RedirectToGoogle")
+            </u>
+        }
+
+
+
+
+
+
+    </div>
+    
+
+</body>
+</html>
+

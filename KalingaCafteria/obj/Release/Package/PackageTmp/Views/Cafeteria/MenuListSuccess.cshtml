@@ -1,0 +1,36 @@
+﻿
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>MenuListSuccess</title>
+    <style>
+        body {
+            background-image: url("../../Photo/log2.jpg");
+            background-repeat: no-repeat;
+            background-origin: padding-box;
+            background-size: cover;
+            position: absolute;
+            
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <script>
+            alert("Successfully added menu");
+            window.location.href = "/Cafeteria/MenuListVendor";
+        </script>
+    </div>
+    <div>
+        <input type="button" value="LogOut" class="home" onclick="@("window.location.href='" + @Url.Action("Logout", "Cafeteria") + "'");" />
+    </div>
+</body>
+</html>
+

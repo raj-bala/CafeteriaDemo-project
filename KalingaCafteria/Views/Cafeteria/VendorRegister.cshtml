@@ -1,0 +1,95 @@
+﻿
+@model IEnumerable<KalingaCafteria .Models.CounterDetailsModel>
+@{
+    ViewBag.Title = "HomePage";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>VendorRegister</title>
+    <style>
+
+        body {
+            background: url("../../Photo/cnt3.jpg") no-repeat center center fixed;
+            background-size: cover;
+            color: rgb(46, 8, 116);
+        }
+
+        table {
+            position: absolute;
+            top: 20%;
+            left: 30%;
+        }
+
+        .head2 {
+            position: absolute;
+            top: 10%;
+            left: 30%;
+        }
+
+        .home {
+            position: absolute;
+            top: 8px;
+            right: 16px;
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <br />
+   
+      
+        <h2 class="head2">Available Counter</h2>
+        <br /><br />
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.CounterID)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Availability)
+                </th>
+                <th></th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CounterID)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Availability)
+                    </td>
+                    <td>
+                        @if (item.Availability == 1)
+                        {
+                            <input type="button" value="Book Counter" name="BookCounter" class="btn btn-default" onclick="location.href='@Url.Action("VendorSignUp","Cafeteria",new RouteValueDictionary(new {counterId=item.CounterID}))'" />
+
+                        }
+                        else
+                        {
+                            <input type="button" disabled value="Book Counter" name="BookCounter" class="btn btn-default" onclick="location.href='@Url.Action("VendorSignUp","Cafeteria",new RouteValueDictionary(new {counterId=item.CounterID}))'" />
+
+                        }
+                    </td>
+
+                </tr>
+
+            }
+        </table>
+        <br /><br /><br /><br />
+   
+</body>
+</html>

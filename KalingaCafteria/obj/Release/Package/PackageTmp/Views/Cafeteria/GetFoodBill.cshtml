@@ -1,0 +1,74 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetFoodBill</title>
+    <style>
+
+
+        body {
+            background-image: url("../../Photo/bill2.jpg");
+            background-repeat: no-repeat;
+            background-origin: padding-box;
+            background-size: cover;
+        }
+
+        h2 {
+            color: rgb(4, 114, 37);
+        }
+
+        .div1 {
+            position: center;
+        }
+
+        .home {
+            position: absolute;
+            top: 8px;
+            right: 16px;
+            background-color: rgb(4, 114, 37);
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body align="center">
+
+
+    <form method="post" name="Display">
+        <h2 align="center">Want To add More Product</h2><br />
+        <input type="button" value="Continue" align="center" onclick="newTest()">
+        <input type="button" value="No" align="center" onclick="noTest()">
+
+        <script>
+            function newTest() {
+
+                var url = '@Url.Action("CounterDisplayUser", "Cafeteria")';
+                     window.location.href = url;
+            }
+            function noTest() {
+               var url = '@Url.Action("PrintFoodBill", "Cafeteria")';
+                     window.location.href = url;
+            }
+
+        </script>
+
+    </form>
+    <div>
+        <input type="button" value="LogOut" class="home"  align="center" onclick="@("window.location.href='" + @Url.Action("Logout", "Cafeteria") + "'");" />
+    </div>
+</body>
+</html>
+

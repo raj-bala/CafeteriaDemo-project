@@ -1,0 +1,108 @@
+﻿
+@{
+    ViewBag.Title = "HomePage";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+   
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Test</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <style>
+        .abc {
+            color: blue;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: medium;
+        }
+
+        body {
+            background-color: black;
+            background: url("../../Photo/Home.jpg") no-repeat center center fixed;
+            background-size: cover;
+            
+            animation: slider 20s infinite linear;
+        }
+        @@keyframes slider {
+            0% {
+                background: url("../../Photo/bill2.jpg");
+                background-size: cover;
+            }
+
+            25% {
+                background: url("../../Photo/Home.jpg");
+                background-size: cover;
+            }
+
+            75% {
+                background: url("../../Photo/del3.jpg");
+                background-size: cover;
+            }
+        }
+       
+        .header1 {
+            padding: 40px;
+            text-align: center;
+            background: #1abc9c;
+            color: firebrick;
+            opacity: 0.5;
+            
+
+            
+        }
+
+           
+            .header1 h1 {
+                font-size: 40px;
+                font-weight: bold;
+                text-shadow: 3px 2px rgb(190, 221, 198);
+            }
+        .content {
+            
+            position: absolute;
+            top: 50%;
+            right: 50%;
+        }
+        .row {
+            position: absolute;
+            top: 70%;
+        }
+        #para1 {
+            font-style: italic;
+            font-weight: bold;
+            animation: mymove 5s infinite;
+            animation-delay: 2s;
+        }
+        .btn {
+            background-color: rgb(87, 202, 177);
+            color: firebrick;
+            font-weight: bold;
+            opacity: 0.7;
+        }
+    </style>
+</head>
+<body>
+    <div class="header1">
+        @*<br /><br />*@
+        <h1>Welcome To Kalinga Cafeteria</h1>
+        <br />
+        <p id="para1"> Stay Healthy,Stay Happy</p>
+    </div>
+    <div><br /></div>
+
+    <div class="content">
+        @Html.ActionLink("Plan Your Food", "CounterDisplay", "Cafeteria", null, new { @class = "btn btn-success" })
+    </div>
+    
+
+
+
+
+</body>
+</html>
+

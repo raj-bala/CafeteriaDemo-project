@@ -1,0 +1,47 @@
+﻿
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>UserSignupSuccess</title>
+    <style>
+        body {
+            background-image: url("../../Photo/log2.jpg");
+            background-repeat: no-repeat;
+            background-origin: padding-box;
+            background-size: cover;
+            position: absolute;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        
+            @if (ViewBag.Exception != null)
+            {
+                <script>
+                    alert('@ViewBag.Exception');
+                    window.location.href = "/Cafeteria/VendorLogin";
+                </script>
+            }
+            else
+            {
+                <script>
+                    alert("Sucessfully registered");
+                    window.location.href = "/Cafeteria/VendorLogin";
+                </script>
+            }
+        
+
+
+    </div>
+
+</body>
+</html>
+

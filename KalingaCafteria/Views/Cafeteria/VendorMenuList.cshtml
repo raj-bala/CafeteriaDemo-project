@@ -1,0 +1,96 @@
+﻿
+@{
+    ViewBag.Title = "VendorMenuList";
+    Layout = "~/Views/Shared/_LayoutPage3.cshtml";
+}
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>VendorMenuList</title>
+    <style>
+        body {
+            
+            background-color: black;
+            background: url("../../Photo/addm1.jpg") no-repeat center center fixed;
+            background-size: cover;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <br /><br /><br />
+        @if (ViewBag.Message != null)
+        {
+            <p>@ViewBag.Message</p>
+        }
+        <h2>Add Menu </h2><br />
+
+
+        @using (Html.BeginForm("MenuListSuccess", "Cafeteria", FormMethod.Post))
+        {
+            <table>
+                <tr>
+                    <td>
+                        Food Counter ID:
+                    </td>
+                    <td>
+                        &nbsp;&nbsp;<input style="opacity:0.5" type="text" id="cid" size=35 name="CounterId" required>
+                    </td>
+
+                </tr>
+                
+                 <tr><td><br /></td></tr>
+                <tr>
+                    <td>
+                        Food Item Name:
+                    </td>
+                    <td>
+                        &nbsp;&nbsp;<input style="opacity:0.5" type="text" id="fname" size=35 name="ItemName" required>
+                    </td>
+                    <td><p id="hide2"></p></td>
+                </tr>
+                 <tr><td><br /></td></tr>
+                <tr>
+                    <td>
+                        Item Description:
+                    </td>
+                    <td>
+                        &nbsp;&nbsp;<input style="opacity:0.5" type="text" id="city" size=35 name="Itemdescription" required>
+                    </td>
+                    <td><p id="hide2"></p></td>
+                </tr>
+                <tr><td><br /></td></tr>
+                <tr>
+                    <td>
+                        Price:
+                    </td>
+                    <td>
+                        &nbsp;&nbsp;<input style="opacity:0.5" type="number" id="price" size=45 name="Price" required>
+                    </td>
+                    <td><p id="hide2"></p></td>
+
+                </tr>
+                 <tr><td><br /></td></tr>
+               
+
+            </table>
+            <p>
+                <input type="submit" id="submit1" value="AddMenu" name="Submit">
+                <input type="reset" value="Reset" name="Reset">
+                <input type="button" value="Cancel" onclick="@("window.location.href='" + @Url.Action("MenuListVendor", "Cafeteria") + "'");" />
+            </p>
+        }
+    </div>
+   
+</body>
+</html>
+
+
+
+
+
+

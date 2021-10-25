@@ -1,0 +1,113 @@
+﻿
+@{
+    ViewBag.Title = "DeleteMenuDet";
+    Layout = "~/Views/Shared/_LayoutPage3.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DeleteMenuDet</title>
+    <style>
+        body {
+            /*background-image: url("../../Photo/del3.jpg");
+            background-repeat: no-repeat;
+            background-origin: padding-box;
+            background-size: cover;*/
+            background-color: black;
+            background: url("../../Photo/del3.jpg") no-repeat center center fixed;
+            background-size: cover;
+        }
+
+        .home {
+            position: absolute;
+            top: 8px;
+            right: 16px;
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .home1 {
+            position: absolute;
+            top: 8px;
+            right: 186px;
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        h3 {
+            position: absolute;
+            top: 7%;
+            right: 55%;
+        }
+
+        .tab1 {
+            position: absolute;
+            top: 18%;
+            right: 50%;
+        }
+    </style>
+</head>
+<body>
+    <br /><br /><br /><br /><br />
+    <h3 align="center">Delete Item</h3>
+    <br /><br />
+    @*<div>
+        <input type="button" value="Home Page" class="home" onclick="@("window.location.href='" + @Url.Action("HomePage", "Cafeteria") + "'");" />
+    </div>
+    <div>
+        <input type="button" value="LogOut" class="home1" onclick="@("window.location.href='" + @Url.Action("Logout", "Cafeteria") + "'");" />
+
+    </div>*@
+          <div align="center">
+              @using (Html.BeginForm("Delete", "Cafeteria", FormMethod.Post))
+              {
+                  <table cellpadding="2" cellspacing="0" border="0" class="tab1">
+                      <tr>
+                          <td>Enter Id to Delete:</td>
+                          <td>
+                              @Html.TextBox("ItemId")
+
+                          </td>
+                      </tr>
+                      <tr>
+                          <td></td>
+                          <td><input type="submit" value="Delete Menu Item" /></td>
+
+                      </tr>
+                      <tr>
+                          <td></td>
+                      </tr>
+                      <tr>  <td></td>  </tr>
+                      <tr>
+
+
+                          <td></td>
+
+                      </tr>
+                  </table>
+              }
+          </div>
+</body>
+</html>
+
+
+

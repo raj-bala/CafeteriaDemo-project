@@ -1,0 +1,57 @@
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\RepositoryLayer\bin\Debug\RepositoryLayer.dll.config
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\RepositoryLayer\bin\Debug\RepositoryLayer.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\RepositoryLayer\bin\Debug\RepositoryLayer.pdb
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\RepositoryLayer\bin\Debug\Entities.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\RepositoryLayer\bin\Debug\EntityFramework.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\RepositoryLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\RepositoryLayer\bin\Debug\Entities.pdb
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\RepositoryLayer\bin\Debug\EntityFramework.xml
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\RepositoryLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\RepositoryLayer\obj\Debug\RepositoryLayer.csprojAssemblyReference.cache
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\RepositoryLayer\obj\Debug\RepositoryLayer.Migrations.Create.resources
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\RepositoryLayer\obj\Debug\RepositoryLayer.csproj.GenerateResource.cache
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\RepositoryLayer\obj\Debug\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\RepositoryLayer\obj\Debug\RepositoryLayer.csproj.CopyComplete
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\RepositoryLayer\obj\Debug\RepositoryLayer.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\RepositoryLayer\obj\Debug\RepositoryLayer.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\RepositoryLayer.dll.config
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\RepositoryLayer.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\RepositoryLayer.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\Entities.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\EntityFramework.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\ExceptionLayer.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\Entities.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\ExceptionLayer.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\EntityFramework.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\obj\Debug\RepositoryLayer.csprojAssemblyReference.cache
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\obj\Debug\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\obj\Debug\RepositoryLayer.csproj.CopyComplete
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\obj\Debug\RepositoryLayer.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\obj\Debug\RepositoryLayer.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\obj\Debug\RepositoryLayer.Migrations.CreateInitialProject.resources
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\obj\Debug\RepositoryLayer.csproj.GenerateResource.cache
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\DotNetOpenAuth.GoogleOAuth2.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\Org.Mentalis.Security.Cryptography.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\Mono.Math.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\Entities.dll.config
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\ExceptionLayer.dll.config
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\Org.Mentalis.Security.Cryptography.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\RepositoryLayer\bin\Debug\Mono.Math.xml

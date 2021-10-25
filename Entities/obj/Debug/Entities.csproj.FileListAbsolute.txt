@@ -1,0 +1,38 @@
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\Entities\bin\Debug\Entities.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\Entities\bin\Debug\Entities.pdb
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\Entities\obj\Debug\Entities.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\Entities\obj\Debug\Entities.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\Entities.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\Entities.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\obj\Debug\Entities.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\obj\Debug\Entities.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\Entities.dll.config
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\DotNetOpenAuth.GoogleOAuth2.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\EntityFramework.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\Org.Mentalis.Security.Cryptography.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\Mono.Math.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\EntityFramework.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\Org.Mentalis.Security.Cryptography.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\bin\Debug\Mono.Math.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\Entities\obj\Debug\Entities.csproj.CopyComplete

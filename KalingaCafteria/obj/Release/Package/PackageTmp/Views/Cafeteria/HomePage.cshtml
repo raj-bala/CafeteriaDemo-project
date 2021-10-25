@@ -1,0 +1,186 @@
+﻿﻿
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" initial-scale=1 />
+    <title>HomePageDemo</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <style>
+
+        .div1 {
+            background-image: url("../../Photo/Home.jpg");
+            background-repeat: no-repeat;
+            background-origin: padding-box;
+            background-size: cover;
+            width:auto;
+            height:auto;
+        }
+
+        .top-bar {
+            background-color: rgb(14, 158, 50);
+            padding: 2px;
+        }
+
+        .navbar {
+            background-color: rgb(14, 158, 50);
+        }
+
+            .navbar .navbar-brand,
+            .navbar .navbar-text {
+                color: rgba(255,255,255,.8);
+            }
+
+        .my-menu {
+            margin-top: 10px;
+        }
+
+            .my-menu .navbar-nav .active a, .my-menu .navbar-nav .active a:hover {
+                background-color: green;
+                color: white;
+            }
+
+            .my-menu .navbar-nav li a:hover {
+                background-color: forestgreen;
+                color: white;
+            }
+
+        .heading {
+            text-align: center;
+            text-transform: capitalize;
+            color: rgb(211, 211, 212);
+            text-shadow: 2px 1px grey;
+            font-style: italic;
+            font-size: 50px;
+            font-weight: bold;
+            position: relative;
+            top: 190px;
+            left: 20px;
+        }
+
+        .loc1 {
+            text-align: center;
+            text-transform: capitalize;
+            color: rgb(211, 211, 212);
+            text-shadow: 2px 1px grey;
+            font-style: italic;
+            font-size: 60px;
+            font-weight: bold;
+        }
+
+        .plan {
+            position:fixed;
+            bottom: 60px;
+            right: 500px;
+            font-size: 18px;
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="div1">
+
+        <div class="container-fluid top-bar">
+            <div class="row">
+                <div class="col-md-6"></div>
+                <div class="col-md-6">
+                    <p class="text-right" style="color:white;">Contact Us-<span class="glyphicon glyphicon-phone"></span>+91-9102945237</p>
+                </div>
+            </div>
+        </div>
+        @*create logo and menu*@
+
+        <div class="row">
+            <div class="col-md-4">
+
+            </div>
+            <div class="col-md-8 my-menu">
+                <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" href="#">Kalinga Cafeteria</a>
+                        </div>
+                        <div class="collapse navbar-collapse" id="myNavbar">
+                            <ul class="nav navbar-nav pull-right">
+                                <li class="active"><a href="/Cafeteria/HomePage">Home</a></li>
+                                <li class="active"><a href="/Cafeteria/AboutCafeteria">About</a></li>
+                                <li class="active"><a href="/Cafeteria/PhotoGallery">Photo</a></li>
+                                <li class="active"><a href="/Cafeteria/Contact">Contact</a></li>
+                                <li class="active"><a href="/Cafeteria/VendorLogin">Login</a></li>
+                                <li class="active"><a href="/Cafeteria/Register">SignUp</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+
+
+                <h2 class="heading" style="font-size:5vw;">
+                    Kalinga Cafeteria
+                </h2>
+
+
+                <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+                <br /><br /><br /><br /><br /><br /><br /><br />
+
+            </div>
+
+        </div>
+        <div class="container-fluid">
+           
+                <div class="row plan">
+                    <div class="col-md-12">
+                        @Html.ActionLink("Plan Your Food", "CounterDisplay", "Cafeteria", null, new { @class = "btn btn-success" })
+
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+        @*<div class="row">
+            <div class="col-md-12">
+                <center>
+                    <strong class="loc1">
+                        Our Location
+                    </strong>
+                </center>
+                <br />
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3740.7625182728134!2d85.79820151422226!3d20.351427086369135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a1908e77a6bbecd%3A0x516790bc3db5a09f!2sMindtree%20Limited!5e0!3m2!1sen!2sin!4v1567952946368!5m2!1sen!2sin" width="1150" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+            </div>
+        </div>*@
+
+
+
+
+    </div>
+
+    @*</div>*@
+
+</body>
+</html>
+

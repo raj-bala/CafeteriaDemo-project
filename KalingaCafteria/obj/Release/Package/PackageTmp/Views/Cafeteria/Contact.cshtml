@@ -1,0 +1,117 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Contact</title>
+    <style>
+
+
+
+        body {
+            background-image: url("../../Photo/contact2.jpg");
+            background-repeat: no-repeat;
+            background-origin: padding-box;
+            background-size: cover;
+        }
+
+        h2 {
+            color: rgb(4, 114, 37);
+        }
+
+        .div1 {
+            position: center;
+        }
+
+        .home {
+            position: absolute;
+            top: 8px;
+            right: 16px;
+            background-color: rgb(4, 114, 37);
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="div1">
+        <h2> Developers of this Cafeteria Project:</h2>
+        <hr />
+        <div>
+            <center>
+                <table cellspacing="40">
+                    <tr>
+                        <td>
+                            <img src="../../Photo/Profile.jpg" width="150" height="150">
+                        </td>
+                        <td>
+                            <img src="../../Photo/Rajbala.jpg" width="150" height="150">
+                        </td>
+                        <td>
+                            <img src="../../Photo/Murali.png" width="150" height="150">
+                        </td>
+                        <td>
+                            <img src="../../Photo/Dhana.jpg" width="150" height="150">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <center>
+                                <p>
+                                    Vinutha H
+                                </p>
+                                <p>
+                                    M1053615
+                                </p>
+                            </center>
+                        </td>
+                        <td>
+                            <center>
+                                <p>
+                                    Rajbala
+                                </p>
+                                <p>
+                                    M1053678
+                                </p>
+                            </center>
+                        </td>
+                        <td>
+                            <center>
+                                <p>
+                                    Muralidhar
+                                </p>
+                                <p>
+                                    M1053526
+                                </p>
+                            </center>
+                        </td>
+                        <td>
+                            <center>
+                                <p>
+                                    Dhanalakshmi
+                                </p>
+                                <p>
+                                    M1053694
+                                </p>
+                            </center>
+                        </td>
+                    </tr>
+
+                </table>
+            </center>
+        </div>
+    </div>
+    <div>
+        <input type="button" value="Home Page" class="home" onclick="@("window.location.href='" + @Url.Action("HomePage", "Cafeteria") + "'");" />
+    </div>
+</body>
+</html>

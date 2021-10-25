@@ -1,0 +1,158 @@
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\KalingaCafteria.dll.config
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\KalingaCafteria.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\KalingaCafteria.pdb
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\csc.exe
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\csc.exe.config
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\csc.rsp
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\csi.exe
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\csi.rsp
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\System.AppContext.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\vbc.exe
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\vbc.exe.config
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\vbc.rsp
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\VBCSCompiler.exe
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\Antlr3.Runtime.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\Entities.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\EntityFramework.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\EntityFramework.SqlServer.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\ManagerLayer.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\Newtonsoft.Json.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\RepositoryLayer.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\System.Web.Helpers.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\System.Web.Mvc.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\System.Web.Optimization.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\System.Web.Razor.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.Razor.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\WebGrease.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\Entities.pdb
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\ManagerLayer.pdb
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\RepositoryLayer.pdb
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\RepositoryLayer.dll.config
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\EntityFramework.xml
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\EntityFramework.SqlServer.xml
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\System.Web.Helpers.xml
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\System.Web.Mvc.xml
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\System.Web.Optimization.xml
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\System.Web.Razor.xml
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.xml
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.Razor.xml
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\Newtonsoft.Json.xml
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\Antlr3.Runtime.pdb
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\obj\Debug\KalingaCafteria.csprojAssemblyReference.cache
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\obj\Debug\KalingaCafteria.csproj.CoreCompileInputs.cache
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\obj\Debug\KalingaCafteria.csproj.CopyComplete
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\obj\Debug\KalingaCafteria.dll
+C:\Users\M1053615\Documents\Visual Studio 2017\Projects\KalingaCafteria\KalingaCafteria\obj\Debug\KalingaCafteria.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\KalingaCafteria.dll.config
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\KalingaCafteria.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\KalingaCafteria.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\csc.exe
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\csc.exe.config
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\csc.rsp
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\csi.exe
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\csi.rsp
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\System.AppContext.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\vbc.exe
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\vbc.exe.config
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\vbc.rsp
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\VBCSCompiler.exe
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Antlr3.Runtime.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Entities.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\EntityFramework.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\EntityFramework.SqlServer.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\ManagerLayer.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Newtonsoft.Json.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\RepositoryLayer.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.Helpers.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.Mvc.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.Optimization.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.Razor.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.Razor.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\WebGrease.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Entities.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\ManagerLayer.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\RepositoryLayer.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\RepositoryLayer.dll.config
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\EntityFramework.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\EntityFramework.SqlServer.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.Helpers.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.Mvc.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.Optimization.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.Razor.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.Razor.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Newtonsoft.Json.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Antlr3.Runtime.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\obj\Debug\KalingaCafteria.csprojAssemblyReference.cache
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\obj\Debug\KalingaCafteria.csproj.CoreCompileInputs.cache
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\obj\Debug\KalingaCafteria.csproj.CopyComplete
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\obj\Debug\KalingaCafteria.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\obj\Debug\KalingaCafteria.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\ExceptionLayer.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\ExceptionLayer.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.Core.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.GoogleOAuth2.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Mono.Math.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Entities.dll.config
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\ExceptionLayer.dll.config
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\ManagerLayer.dll.config
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.Core.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Mono.Math.xml

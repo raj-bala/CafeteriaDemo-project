@@ -1,0 +1,89 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>PrintFoodBill</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <style>
+
+
+
+        body {
+            background-image: url("../../Photo/bill1.jpg");
+            background-repeat: no-repeat;
+            background-origin: padding-box;
+            background-size: cover;
+        }
+
+        h2 {
+            color: rgb(4, 114, 37);
+        }
+
+        .div1 {
+            position: center;
+        }
+
+        .home {
+            position: absolute;
+            top: 8px;
+            right: 16px;
+            background-color: rgb(4, 114, 37);
+            border: none;
+            color: white;
+            padding: 20px 36px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+        .card-body {
+            background-color: rgb(173, 157, 82);
+           
+        }
+    </style>
+</head>
+<body align="center">
+    <div align="center">
+        <div>
+            <br /><br />
+        </div>
+        <div class="container">
+            <div class="card">
+                <h4 class="card-title">The Bill</h4>
+                @*<div class="card-columns">*@
+                    <div class="card bg-success">
+                        <div class="card-body text-center">
+
+                            <h5 class="card-text">Item Name       Cost      Quantity </h5>
+
+                            @foreach (var i in ViewBag.Name)
+                            {
+                                <h6 class="card-text">@i</h6><br />
+
+
+                            }
+                            <h6 align="center">Total Cost:&emsp;@ViewBag.Message</h6>
+                            
+
+                        </div>
+                    </div>
+
+                @*</div>*@
+            </div>
+        </div>
+       
+    </div>
+    <div align="center">
+        <input type="button" value="LogOut" class="home" onclick="@("window.location.href='" + @Url.Action("Logout", "Cafeteria") + "'");" />
+    </div>
+</body>
+</html>
+

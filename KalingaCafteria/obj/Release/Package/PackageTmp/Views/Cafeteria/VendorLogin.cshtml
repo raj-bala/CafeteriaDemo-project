@@ -1,0 +1,81 @@
+﻿@model KalingaCafteria.Models.VendorDetailsModel
+
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>VendorLogin</title>
+    <style>
+        body {
+            background-image: url("../../Photo/log2.jpg");
+            background-repeat: no-repeat;
+            background-origin: padding-box;
+            background-size: cover;
+            position: absolute;
+            top: 10%;
+            right: 50%;
+            color:white;
+        }
+        
+    </style>
+</head>
+<body>
+
+    <h2>Login</h2>
+
+    @using (Html.BeginForm())
+    {
+
+
+        <div>
+
+            <hr />
+
+            <div>
+                @Html.LabelFor(model => model.Email)
+                <div>
+                    @Html.EditorFor(model => model.Email)
+                    @Html.ValidationMessageFor(model => model.Email, "")
+                </div>
+            </div>
+
+            <div>
+                @Html.Label("Password")
+                <div>
+                    @Html.PasswordFor(model => model.Pswd)
+                    @Html.ValidationMessageFor(model => model.Pswd, "")
+                </div>
+            </div>
+    <div>@ViewBag.Message</div>
+            <br/>
+            <div>
+                <div>
+                    <input type="submit" value="Login" class="btn btn-default" />
+
+                    &nbsp&nbsp
+
+                    <input type="button" value="SignUp" class="btn btn-default" onclick="@("window.location.href='" + @Url.Action("Register", "Cafeteria") + "'");" />
+                </div>
+            </div>
+            
+        </div><br />
+    }
+
+    <div class="div1">
+        @Html.ActionLink("Click to HomePage", "HomePage")
+    </div>
+    <div class="div1">
+        <h3>Login Using External Provider</h3>
+
+        @Html.ActionLink("Login Using Google", "RedirectToGoogle")
+    </div>
+
+</body>
+</html>
+

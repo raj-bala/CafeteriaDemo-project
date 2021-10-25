@@ -1,0 +1,83 @@
+﻿@model IEnumerable<KalingaCafteria.Models.MenuModel>
+@{
+    ViewBag.Title = "MenuList";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>MenuList</title>
+    @*<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>*@
+    <style>
+        body {
+            
+            background-color: black;
+            background: url("../../Photo/menu1.jpg") no-repeat center center fixed;
+            background-size: cover;
+        }
+
+        h1 {
+            text-align: center;
+            text-transform: capitalize;
+            color: rgb(87, 60, 52);
+            text-shadow: 2px 1px grey;
+            font-style: italic;
+            font-size: 60px;
+            font-weight: bold;
+            position: relative;
+            top: 0px;
+        }
+
+        
+
+        .div1 {
+            color: white;
+        }
+
+        .card-deck {
+            background-color: rgb(177, 149, 26);
+        }
+
+        .card-body {
+            background-color: rgb(92, 56, 22);
+        }
+    </style>
+</head>
+<body>
+    <br /><br />
+    <h1>Menu</h1>
+    
+    <div class="div1">
+        @*<div class="container">*@
+            <div class="card-deck">
+                @foreach (var item in Model)
+                {
+                    @*<div class="card-columns">*@
+                    <div class="card bg-success">
+                        <div class="card-body text-center">
+
+                            <p class="card-text">@Html.DisplayNameFor(model => model.CounterID):&emsp;@Html.DisplayFor(modelItem => item.CounterID)</p>
+                            <p class="card-text">@Html.DisplayNameFor(model => model.ItemId):&emsp;@Html.DisplayFor(modelItem => item.ItemId)</p>
+                            <p class="card-text">@Html.DisplayNameFor(model => model.ItemName):&emsp;@Html.DisplayFor(modelItem => item.ItemName)</p>
+                            <p class="card-text">@Html.DisplayNameFor(model => model.Itemdescription):&emsp;@Html.DisplayFor(modelItem => item.Itemdescription)</p>
+                            <p class="card-text">@Html.DisplayNameFor(model => model.Price):&emsp;@Html.DisplayFor(modelItem => item.Price)</p>
+
+                        </div>
+                    </div>
+
+                    @*</div>*@
+                }
+            </div>
+        @*</div>*@
+
+    </div>
+
+</body>
+</html>
+

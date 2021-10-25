@@ -1,0 +1,198 @@
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\KalingaCafteria.dll.config
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\KalingaCafteria.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\KalingaCafteria.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\csc.exe
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\csc.exe.config
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\csc.rsp
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\csi.exe
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\csi.rsp
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\System.AppContext.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\vbc.exe
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\vbc.exe.config
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\vbc.rsp
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\VBCSCompiler.exe
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Antlr3.Runtime.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.Core.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.GoogleOAuth2.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Entities.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\EntityFramework.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\EntityFramework.SqlServer.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\ExceptionLayer.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\ManagerLayer.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Newtonsoft.Json.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\RepositoryLayer.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.Helpers.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.Mvc.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.Optimization.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.Razor.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.Razor.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\WebGrease.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Mono.Math.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Entities.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Entities.dll.config
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\ExceptionLayer.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\ExceptionLayer.dll.config
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\ManagerLayer.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\ManagerLayer.dll.config
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\RepositoryLayer.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\RepositoryLayer.dll.config
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.Core.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\EntityFramework.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\EntityFramework.SqlServer.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.Helpers.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.Mvc.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.Optimization.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.Razor.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.Razor.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Newtonsoft.Json.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Antlr3.Runtime.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Mono.Math.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\obj\Release\KalingaCafteria.csprojAssemblyReference.cache
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\obj\Release\KalingaCafteria.csproj.CoreCompileInputs.cache
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\obj\Release\KalingaCafteria.csproj.CopyComplete
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\obj\Release\KalingaCafteria.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\obj\Release\KalingaCafteria.pdb
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Castle.Core.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Moq.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Castle.Core.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\Moq.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\M1053615\Desktop\KalingaCafteria\KalingaCafteria\bin\System.Threading.Tasks.Extensions.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\KalingaCafteria.dll.config
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\KalingaCafteria.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\KalingaCafteria.pdb
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\csc.exe
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\csc.exe.config
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\csc.rsp
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\csi.exe
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\csi.rsp
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\System.AppContext.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\System.Collections.Immutable.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\System.IO.FileSystem.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\System.Reflection.Metadata.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\vbc.exe
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\vbc.exe.config
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\vbc.rsp
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\VBCSCompiler.exe
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\roslyn\VBCSCompiler.exe.config
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\Antlr3.Runtime.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\Castle.Core.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.AspNet.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.Core.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.GoogleOAuth2.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OAuth.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OpenId.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\Entities.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\EntityFramework.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\EntityFramework.SqlServer.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\ExceptionLayer.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\ManagerLayer.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\Microsoft.Web.Infrastructure.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\Moq.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\Newtonsoft.Json.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\RepositoryLayer.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\System.Threading.Tasks.Extensions.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\System.Web.Helpers.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\System.Web.Mvc.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\System.Web.Optimization.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\System.Web.Razor.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.Deployment.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.Razor.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\WebGrease.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\Org.Mentalis.Security.Cryptography.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\Mono.Math.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\Entities.pdb
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\Entities.dll.config
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\ExceptionLayer.pdb
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\ExceptionLayer.dll.config
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\ManagerLayer.pdb
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\ManagerLayer.dll.config
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\RepositoryLayer.pdb
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\RepositoryLayer.dll.config
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\Castle.Core.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.AspNet.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.Core.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OAuth.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OpenId.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\EntityFramework.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\EntityFramework.SqlServer.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\Moq.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\System.Threading.Tasks.Extensions.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\System.Web.Helpers.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\System.Web.Mvc.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\System.Web.Optimization.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\System.Web.Razor.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.Deployment.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\System.Web.WebPages.Razor.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\Newtonsoft.Json.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\Antlr3.Runtime.pdb
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\Org.Mentalis.Security.Cryptography.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\bin\Mono.Math.xml
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\obj\Release\KalingaCafteria.csprojAssemblyReference.cache
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\obj\Release\KalingaCafteria.csproj.CoreCompileInputs.cache
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\obj\Release\KalingaCafteria.csproj.CopyComplete
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\obj\Release\KalingaCafteria.dll
+D:\FinalProject\Cafeteria\Final Code\KalingaCafteria\KalingaCafteria\obj\Release\KalingaCafteria.pdb

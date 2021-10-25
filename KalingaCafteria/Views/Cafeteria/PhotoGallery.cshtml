@@ -1,0 +1,62 @@
+﻿
+@{
+    ViewBag.Title = "PhotoGallery";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>PhotoGallery</title>
+    <style>
+        body {
+            /*background-color:rgba(27,31,34,0.85);*/
+            background-color: rgb(82, 187, 114);
+        }
+
+        h1 {
+            font-size: 2.1rem;
+            line-height: 1.4;
+            text-align: center;
+            color: white;
+        }
+
+        .maindiv {
+            width: 70%;
+            height: 400px;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%,-50%);
+            background-image: url("../../Photo/food2.jpg");
+            background-size: 100%,100%;
+            box-shadow: 1px 2px 10px 5px white;
+            animation: slider 9s infinite linear;
+        }
+
+        @@keyframes slider {
+            0% {
+                background-image: url("../../Photo/food1.jpg");
+            }
+
+            25% {
+                background-image: url("../../Photo/food2.jpg");
+            }
+
+            75% {
+                background-image: url("../../Photo/del3.jpg");
+            }
+        }
+    </style>
+</head>
+<body>
+    <br /><br />
+    <h1 color="white">@Html.ActionLink("PHOTO GALLERY", "PhotoGalleryPic", "Cafeteria", null, null)</h1>
+    <div class="maindiv">
+    </div>
+
+
+</body>
+</html>

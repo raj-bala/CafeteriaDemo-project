@@ -1,0 +1,58 @@
+﻿
+
+
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>VendorMenuList</title>
+    <style>
+        body {
+            background-image: url("../../Photo/addm1.jpg");
+            background-repeat: no-repeat;
+            background-origin: padding-box;
+            background-size: cover;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h2>Add Menu :</h2><br />
+
+
+        @using (Html.BeginForm("MenuListSuccess", "Cafeteria", FormMethod.Post))
+        {
+            <p>
+                Food Counter ID:<input style="opacity:0.5" type="text" id="cid" size=65 name="CounterId" required>
+            </p><p id="hide2"></p><br />
+            <p>Food Item Name:<input style="opacity:0.5" type="text" id="fname" size=65 name="ItemName" required> </p>
+            <p id="hide1"></p><br>
+
+            <p> Item Description: <input style="opacity:0.5" type="text" id="city" size=65 name="Itemdescription" required>  </p><p id="hide3"></p><br>
+            <p> Price: <input style="opacity:0.5" type="text" id="price" size=65 name="Price" required>  </p><p id="hide4"></p><br>
+
+
+            <br />
+
+            <p>
+                <input type="submit" id="submit1" value="AddMenu" name="Submit">
+                <input type="reset" value="Reset" name="Reset">
+                <input type="button" value="Cancel" onclick="@("window.location.href='" + @Url.Action("MenuListVendor", "Cafeteria") + "'");" />
+            </p>
+        }
+    </div>
+    <div>
+        <input type="button" value="LogOut" class="home" onclick="@("window.location.href='" + @Url.Action("Logout", "Cafeteria") + "'");" />
+    </div>
+</body>
+</html>
+
+
+
+

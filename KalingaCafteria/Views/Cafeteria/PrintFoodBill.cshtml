@@ -1,0 +1,100 @@
+﻿
+@{
+    ViewBag.Title = "PrintFoodBill";
+    Layout = "~/Views/Shared/_LayoutPage3.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>PrintFoodBill</title>
+    @*<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>*@
+    <style>
+
+
+
+        body {
+            
+            background-color: black;
+            background: url("../../Photo/bill1.jpg") no-repeat center center fixed;
+            background-size: cover;
+        }
+
+        h2 {
+            color: rgb(4, 114, 37);
+        }
+
+        .div1 {
+            position: center;
+        }
+
+        
+
+        .card-body {
+            background-color:antiquewhite;
+            
+        }
+        #bill {
+            color: white;
+            font-weight: bold;
+            font-size: 50px;
+            opacity: 0.5;
+        }
+        .card-text{
+            color:black;
+            font-weight:bold;
+            font-size:15px;
+        }
+        #m {
+            font-size:25px;
+            color:black;
+        }
+        #m1{
+            font-size:20px;
+            color:black;
+            font-weight:bold;
+
+        }
+    </style>
+</head>
+<body align="center">
+    <br /><br />
+    <div align="center">
+        <div>
+            <br /><br />
+        </div>
+        <div class="container">
+            <div class="card" style="width:50%;">
+                <h4 class="card-title" style="font-weight:bold">The Bill</h4>
+                @*<div class="card-columns">*@
+                <div class="card bg-success">
+                    <div class="card-body text-center" id="bill">
+
+                        <h5 class="card-text" id="m">ItemName          Cost         Quantity </h5>
+
+                        @foreach (var i in ViewBag.Name)
+                        {
+                            <h6 class="card-text" style="color:black">@i</h6><br />
+
+
+                        }
+                        <h6 align="center" id="m1">Total Cost:&emsp;@ViewBag.Message</h6>
+
+
+                    </div>
+                </div>
+
+                @*</div>*@
+            </div>
+        </div>
+
+    </div>
+    
+</body>
+</html>
+
+

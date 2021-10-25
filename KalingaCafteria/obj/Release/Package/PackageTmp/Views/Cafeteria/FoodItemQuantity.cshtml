@@ -1,0 +1,74 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>FoodItemQuantity</title>
+    <style>
+
+
+        body {
+            background-image: url("../../Photo/bill6.jpeg");
+            background-repeat: no-repeat;
+            background-origin: padding-box;
+            background-size: cover;
+        }
+
+        h2 {
+            color: rgb(4, 114, 37);
+        }
+
+        .div1 {
+            position: center;
+        }
+
+        .home {
+            position: absolute;
+            top: 8px;
+            right: 16px;
+            background-color: rgb(4, 114, 37);
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body align="center">
+    <div align="center">
+        <p><h1>Enter Quantity</h1></p>
+
+    </div>
+    @using (Html.BeginForm("FoodItemQuantity", "Cafeteria", FormMethod.Post))
+    {
+        <table cellpadding="1" cellspacing="0" border="0" align="center">
+            <tr align="center">
+               
+                <td align="center">
+                    @Html.TextBox("Quantity")
+
+                </td>
+            </tr>
+            <tr align="center">
+                
+                <td><input type="submit" value="Purchase" align="center" /></td>
+
+            </tr>
+        </table>
+    }
+    <div align="center">
+        <input type="button" value="LogOut" class="home"  onclick="@("window.location.href='" + @Url.Action("Logout", "Cafeteria") + "'");" />
+    </div>
+</body>
+</html>
+
